@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Matthew Chan</title>
+    <link>/posts/</link>
+      <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 03 Aug 2019 16:35:32 -0700</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>/posts/</link>
+    </image>
+    
+    <item>
+      <title>First</title>
+      <link>/posts/first/</link>
+      <pubDate>Sat, 03 Aug 2019 16:35:32 -0700</pubDate>
+      <guid>/posts/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

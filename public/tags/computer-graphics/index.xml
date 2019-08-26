@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Graphics | Matthew Chan</title>
+    <link>/tags/computer-graphics/</link>
+      <atom:link href="/tags/computer-graphics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Graphics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Computer Graphics</title>
+      <link>/tags/computer-graphics/</link>
+    </image>
+    
+    <item>
+      <title>Mesh Simplifier</title>
+      <link>/project/mesh-simplifier/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/mesh-simplifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ray Tracer</title>
+      <link>/project/path-tracer/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/path-tracer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shaders</title>
+      <link>/project/shaders/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/shaders/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

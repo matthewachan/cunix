@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtual Reality | Matthew Chan</title>
+    <link>/tags/virtual-reality/</link>
+      <atom:link href="/tags/virtual-reality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Virtual Reality</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Virtual Reality</title>
+      <link>/tags/virtual-reality/</link>
+    </image>
+    
+    <item>
+      <title>Collaborative Urban Virtual Environment (CURVE)</title>
+      <link>/project/curve/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/curve/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
